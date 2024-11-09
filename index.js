@@ -13,7 +13,7 @@ app.get('/api/get_user_details',(req,res) => {
         user:{
             name:"swamy",
             age:25,
-            contact:9182167868
+            contact:7032898286
         },env:process.env.NAME
     })
 });
