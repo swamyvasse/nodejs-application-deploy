@@ -11,9 +11,9 @@ app.get('/api/get',(req,res) => {
 app.get('/api/get_user_details',(req,res) => {
     res.send({
         user:{
-            name:"swamy",
+            name:"sadboy123",
             age:25,
-            contact:6301787672
+            contact:7032898286
         },env:process.env.NAME
     })
 });
